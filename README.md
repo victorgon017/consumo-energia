@@ -4,16 +4,16 @@
 # ⚡Medidor de consumo de energia e custo estimado
 
 ## 📌Objetivo
-Programa desenvolvido, com o objetivo de apresentar o consumo mensal em kilowatts hora e o custo estimado em reais
+Programa desenvolvido, com o objetivo de apresentar o consumo mensal em kilowatts hora e o custo estimado em reais.
 
 ## 💻Linguagem de programação utilizada
-O programa utiliza a linguagem de programação Python
+O programa utiliza a linguagem de programação Python.
 
 ## 🔢Fórmulas utilizadas
 ```
-Consumo mensal = potencia . tempo médio de uso . 30 / 1000
+Consumo mensal = potencia . tempo médio de uso . 30 / 1000.
 
-Custo estimado = Consumo mensal . Custo por KWh (0,75)
+Custo estimado = Consumo mensal . Custo por KWh (0,75).
 ```
 
 ## 🚀 Como executar o programa
