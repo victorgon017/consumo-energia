@@ -18,8 +18,8 @@ Custo estimado = Consumo mensal . Custo por kWh (0,75).
 
 ## 🚀 Como executar o programa
 
-### 📋Pré-requesito
-* Ter o **Python 3**instalado no computador.
+### 📋Pré-requisito
+* Ter o **Python 3** instalado no computador.
 
 ### ⚙️Passo a passo
 Informe ao programa:
