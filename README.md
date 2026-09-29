@@ -1,15 +1,15 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-# ⚡Medidor de consumo de energia e custo estimado
+# ⚡ Medidor de consumo de energia e custo estimado
 
-## 📌Objetivo
+## 📌 Objetivo
 Programa desenvolvido com o objetivo de apresentar o consumo mensal em kilowatts-hora e o custo estimado em reais.
 
-## 💻Linguagem de programação utilizada
+## 💻 Linguagem de programação utilizada
 O programa utiliza a linguagem de programação Python.
 
-## 🔢Fórmulas utilizadas
+## 🔢 Fórmulas utilizadas
 ```
 Consumo mensal = potencia . tempo médio de uso . 30 / 1000.
 
@@ -18,10 +18,10 @@ Custo estimado = Consumo mensal . Custo por kWh (0,75).
 
 ## 🚀 Como executar o programa
 
-### 📋Pré-requisito
+### 📋 Pré-requisito
 * Ter o **Python 3** instalado no computador.
 
-### ⚙️Passo a passo
+### ⚙️ Passo a passo
 Informe ao programa:
 - O nome do eletrodoméstico
 - A potência do aparelho em Watts (W)
